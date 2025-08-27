@@ -3,27 +3,27 @@ This is a Streamlit web application that uses Langchain and OpenAI to automatica
 
 ---
 
-### ✨ Features
-**📄 Supports PDF & DOCX:** Upload job descriptions or other materials.
+### ✨ Features:
+* **📄 Supports PDF & DOCX:** Upload job descriptions or other materials.
 
-**🧠 Smart Q&A Generation:** Uses LLMs to create relevant questions and find answers within the text.
+* **🧠 Smart Q&A Generation:** Uses LLMs to create relevant questions and find answers within the text.
 
-**💾 CSV Export:** Download the generated Q&A pairs for offline use.
+* **💾 CSV Export:** Download the generated Q&A pairs for offline use.
 
-**🎨 Simple UI:** Clean and easy-to-use interface.
+* **🎨 Simple UI:** Clean and easy-to-use interface.
 
 ---
 
-### 🛠️ Technologies Used
+### 🛠️ Technologies Used:
 **Framework:** Streamlit
 
-**LLM Orchestration:** Langchain
+* **LLM Orchestration:** Langchain
 
-**AI Model:** OpenAI (GPT-3.5-Turbo)
+* **AI Model:** OpenAI (GPT-3.5-Turbo)
 
-**Vector Store:** FAISS
+* **Vector Store:** FAISS
 
-**Document Parsers:** PyPDFLoader, python-docx
+* **Document Parsers:** PyPDFLoader, python-docx
 
 ---
 
