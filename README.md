@@ -1,7 +1,7 @@
-🤖 Interview Question Generator
+## 🤖 Interview Question Generator
 This is a Streamlit web application that uses Langchain and OpenAI to automatically generate interview questions and answers from an uploaded document (PDF or DOCX).
 
-✨ Features
+### ✨ Features
 📄 Supports PDF & DOCX: Upload job descriptions or other materials.
 
 🧠 Smart Q&A Generation: Uses LLMs to create relevant questions and find answers within the text.
@@ -10,7 +10,7 @@ This is a Streamlit web application that uses Langchain and OpenAI to automatica
 
 🎨 Simple UI: Clean and easy-to-use interface.
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 Framework: Streamlit
 
 LLM Orchestration: Langchain
@@ -21,7 +21,7 @@ Vector Store: FAISS
 
 Document Parsers: PyPDFLoader, python-docx
 
-🚀 How to Run
+### 🚀 How to Run
 Follow these steps to get the application running locally.
 
 1.  **Clone the repository:**
