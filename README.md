@@ -25,7 +25,7 @@ Follow these steps to get the application running locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone git@github.com:kathiravanthilagar31/Job_Interview_QA_Generator.git
+    git clone https://github.com/kathiravanthilagar31/Job_Interview_QA_Generator.git
     cd Job_Interview_QA_Generator
     ```
 
