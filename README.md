@@ -1,4 +1,4 @@
-# 🤖 Interview Question Generator
+# 🤖 Job Interview QA Generator
 This is a Streamlit web application that uses Langchain and OpenAI to automatically generate interview questions and answers from an uploaded document (PDF or DOCX).
 
 ---
